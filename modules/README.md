@@ -7,6 +7,9 @@ Refactor the current codebase into a **modular Python package** called `algorith
 
 ## Requirements
 
+**Learn shit**
+- Learn about python modules, libraries, and packages.
+
 **Git**
 - Make a branch, and commit/push whenever you feel it's appropriate.
 
