@@ -9,6 +9,7 @@ Refactor the current codebase into a **modular Python package** called `algorith
 
 **Learn shit**
 - Learn about python modules, libraries, and packages.
+- You can use ChatGPT to explain things, but no code generation.
 
 **Git**
 - Make a branch, and commit/push whenever you feel it's appropriate.
